@@ -32,7 +32,7 @@ Follow the steps outlined in each task directory's README.md file. Refer to the 
 
 ## Acknowledgments
 
-This project is part of the [Google Cloud training course], designed to provide hands-on experience with Docker and container management in GCP. Thanks to Google Cloud for providing the resources and lab environments used in this project.
+This project is part of the online Google Cloud training course, designed to provide hands-on experience with Docker and container management in GCP. Thanks to Google Cloud for providing the resources and lab environments used in this project.
 
 ---
 
